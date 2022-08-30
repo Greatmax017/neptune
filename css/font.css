@@ -1,0 +1,16 @@
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/SourceHanSansCN-Normal.otf);
+}
+@font-face {
+    font-family: Overpass;
+    src: url(../fonts/SourceHanSansCN-Bold.otf);
+}
+@font-face {
+    font-family: myFontLight;
+    src: url(../fonts/SourceHanSansCN-Light.otf);
+}
+@font-face {
+    font-family: myFontExtraLight;
+    src: url(../fonts/SourceHanSansCN-ExtraLight.otf);
+}
